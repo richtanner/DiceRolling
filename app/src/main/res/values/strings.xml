@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D20</string>
+    <string name="app_long_name">Prof\'s D20 Critical Roller</string>
+    <string name="start_string">Roll Your Destiny!</string>
+    <string name="win_string">CRITICAL HIT!  #SOMUCHWIN</string>
+    <string name="lose_string">CRITICAL MISS!  #FAIL</string>
+</resources>
